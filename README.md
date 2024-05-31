@@ -1,7 +1,7 @@
 # Chess
 Player vs Player chess using pygame.
 
-It is a player vs player chess game which was made using the pygame, tkinter module.
+It is a player vs player chess game which is made using the pygame, tkinter module.
 Clicking on a piece all its possible moves are highlighted yellow. Clicking outside the yellow boxes (possible moves) counts as no move.
 For the convenience of players the previous made move is highlighted using the light red color.
 When the king is in check, its square turns red indicating danger.
